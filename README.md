@@ -1,1 +1,1 @@
-# badges_repooo
+# badges_repository
